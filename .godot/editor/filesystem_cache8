@@ -1,8 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703098843
+::res://::1703100045
+enemy.tscn::PackedScene::5254419878045342026::1703099994::0::1::::<><>::uid://clwpo83yorvtm::::res://assets/enemy.png
+player.gd::GDScript::-1::1703099923::0::1::::<>Area2D<>::
+player.tscn::PackedScene::7006007168219253945::1703099994::0::1::::<><>::res://player.gd<>uid://vs551jdj25r0::::res://assets/player.png
 README.md::TextFile::-1::1703098741::0::1::::<><>::
-world.tscn::PackedScene::8572041307841182928::1703002733::0::1::::<><>::uid://bwmny50vdxvr1::::res://assets/wallpaperCabin.jpg
-::res://assets/::1702496524
+world.tscn::PackedScene::8572041307841182928::1703099994::0::1::::<><>::uid://bwmny50vdxvr1::::res://assets/wallpaperCabin.jpg<>uid://c6206delll1v6::::res://player.tscn<>uid://cg4jr7bfjsix3::::res://enemy.tscn<>uid://25h8317w24nw::::res://assets/enemy_hit.mp3
+::res://assets/::1703098844
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702496337::1703098844::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702495914::1703098844::1::::<><>::
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702496418::1703098844::1::::<><>::

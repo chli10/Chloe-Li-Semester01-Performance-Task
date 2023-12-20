@@ -4,9 +4,7 @@ extends Area2D
 @onready var enemy_hit = $"../EnemyHit"
 
 func _ready():
-	pass 
-
-
+	pass
 
 func _process(delta):
 	var velocity = Vector2.ZERO
